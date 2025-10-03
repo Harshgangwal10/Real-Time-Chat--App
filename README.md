@@ -1,6 +1,6 @@
 # Chatify - Real-time Chat Application
 
-[Live Demo](https://chatify-pi-ebon.vercel.app/login)
+[Live Demo](https://chatify-app-one-beryl.vercel.app/login)
 
 ## 🚀 Overview
 
